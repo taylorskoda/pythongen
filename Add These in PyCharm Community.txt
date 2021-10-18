@@ -1,0 +1,7 @@
+Search and Add Python Packages
+
+selenium
+dhooks
+requests
+names
+random-username
