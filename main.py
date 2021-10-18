@@ -38,12 +38,12 @@ import sys
 from dhooks import Webhook
 
 # Webhook sender
-hookurl = Webhook("")
+hookurl = Webhook("ADD DISCORD WEBHOOK FOR COMPLETED GEN INFO")
 
 # 2captcha stuff
 
 #5sim stuff
-token = ''
+token = 'ADD 5-SIM TOKEN'
 country = 'russia'
 operator = 'beeline'
 product = 'blizzard'
@@ -100,10 +100,10 @@ while True:
         Email = "johnwick211212"
         firstName = random_firstName()
         lastName = random_lastName()
-        domain = "@dayrep.com"
-        password = "Limitless21!"
-        securityQuestion = "none!!"
-        bnetName = "JohnWick32"
+        domain = "@ WHATEVER YOU WANT.com"
+        password = "WHATEVER YOU WANT"
+        securityQuestion = "SECRET ANSWER YOU WANT"
+        bnetName = "JohnWick"
         print(firstName, Email, lastName, domain, password, bnetName, securityQuestion)
         #Generator stuff
         x = 1
